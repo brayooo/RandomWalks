@@ -5,7 +5,11 @@ Please follow these **steps** to be able to run the program and avoid future err
 
 ## Clone the Project
 
-1. Go to your desktop or an empty folder and right-click to display the pop-up menu where you will select the "Open Git Bash here" option.
+1. Go to your desktop or an empty folder and right-click to display the pop-up 
+   menu where you will select the "Open Git Bash here" option. 
+    </br>
+    </br>
+
     ![Pop-up](assets/gitBash.png)
 
 
