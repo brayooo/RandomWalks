@@ -54,9 +54,8 @@ with python, go ahead.
 ## Running the Project
 
 - Open the project with the **IDE** or **Development Environment** you want.
-
-
 - You'll see three .py files.
+  
     ![folders](assets/folders.png)
 
 
